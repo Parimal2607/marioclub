@@ -1,0 +1,80 @@
+@media only screen and (max-width: 1500px) {
+        .ct-contact__panel p {
+          width: 100%;
+        }
+        }
+
+@media screen and (max-width: 1400px){
+
+    .banner .welcome h2{ 
+      font-size: 60px;
+    }
+    nav li{
+        font-size: 18px;
+    }
+  
+  }
+@media only screen and (min-width: 1200px) {
+    .ct-article {
+      padding: 44px 55px 70px 100px;
+    }
+    }
+  
+@media screen and (max-width: 960px){
+  
+    .banner .welcome h2{
+      font-size: 40px;
+    }
+    .contact-info, .column {
+        width: 100%;
+        flex: 0 0 100%;
+    max-width: 100%;
+    }
+  
+  }
+  
+@media screen and (max-width: 700px){
+  
+    .banner .welcome{
+      position: relative;
+      text-align: center;
+      padding: 10px;
+    }
+    .banner .welcome br{
+      display: none;
+    }
+    .banner .welcome h2{
+        font-size: 25px;
+    }
+    .banner .welcome span{
+      font-size: 1em;
+    }
+    nav ul li{
+      font-size: 18px;
+    }
+    .images li{
+      width: 100%;
+      display: block;
+      margin: 20px auto;
+    }
+  
+  }
+  
+@media screen and (max-width: 560px){
+  
+    nav ul li{
+      font-size: 20px;
+      display: block;
+      width: 100%;
+      margin: 12px 0;
+    }
+    
+    header{
+      position: relative;
+    }
+    nav{
+        top: 0;
+    }
+  }  
+
+  
